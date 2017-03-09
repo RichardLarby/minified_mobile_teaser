@@ -1,0 +1,13 @@
+body > #nanoRepProxyContainer .nanoRep_mobileTeaser.collapseTeaser {
+	width:30px;height:30px;
+	    padding: 0;
+    top: -40px;
+    margin-left: 10px;
+	    text-align: center !important;
+    line-height: 30px;
+    font-size: 26px;
+    font-weight: bold;
+}
+body > #nanoRepProxyContainer .nanoRep_mobileTeaser.collapseTeaser {
+/*-ms-transition:all 1s ;-webkit-transition:all 1s ;-o-transition:all 1s ;-moz-transition:all 1s ;*/
+}
