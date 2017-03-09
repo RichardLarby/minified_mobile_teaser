@@ -6,7 +6,7 @@
 	function outerLoad(){
 		
 		//Prepend custom styles to head
-		var customCssPath = 'https://drive.google.com/open?id=0B6Cv3O3J8y3caDh4VzBHbUxuMlE';
+		var customCssPath = 'https://raw.githubusercontent.com/RichardLarby/minified_mobile_teaser/master/square_mobile_teaser.css';
 		var styleEl = document.createElement("link");
         styleEl.setAttribute("rel", "stylesheet");
         styleEl.setAttribute("type", "text/css");
